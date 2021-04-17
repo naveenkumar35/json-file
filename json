@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Shyam",
+        "age": 18,
+        "email": "Shanna@melfissa.tv"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 18,
+        "email": "bob32@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "jai",
+        "age": 28,
+        "email": "jai82@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Sai",
+        "age": 24,
+        "email": "Sai.82@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "SanthoshKumar",
+        "age": 24,
+        "email": "Santhosh32@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Gopinath",
+        "age": 24,
+        "email": "gopinath.235@gmail.com"
+    },
+    {
+        "id": 7,
+        "name": "PrakashRaj",
+        "age": 24,
+        "email": "Prakash.raj@gmail.com"
+    },
+    {
+        "id": 8,
+        "name": "Udhayavarshan",
+        "age": 24,
+        "email": "Udhayavarshan@gmail.com"
+    },
+    {
+        "id": 9,
+        "name": "Nithish Siddharthan",
+        "age": 24,
+        "email": "nithish.3vemal@gmail.com"
+    },
+    {
+        "id": 10,
+        "name": "Mohamed Irfan",
+        "age": 24,
+        "email": "mohamedirfan8897@gmail.com"
+    }
+]
